@@ -1,0 +1,119 @@
+- blues:
+  - blues
+
+- country:
+  - country
+
+- classical:
+  - classical
+  - orchestral
+  - choir
+  - symphonic
+  - medieval
+
+- electronic:
+  - electronic
+  - ambient
+  - atmospheric
+  - chillout
+  - darkambient
+  - dance
+  - disco
+  - electronic
+  - house
+  - techno
+  - lounge
+  - triphop
+  - trance
+  - electropop
+  - dub
+  - minimal
+  - deephouse
+  - edm
+  - drumnbass
+  - dubstep
+  - club
+  - breakbeat
+  - idm
+  - eurodance
+  - electronica
+
+- hip hop:
+  - hip hop
+  - hiphop
+  - rap
+
+- jazz:
+  - jazz
+  - jazzfusion
+  - acidjazz
+  - swing
+
+- pop:
+  - pop
+  - instrumentalpop
+  - popfolk
+  - poprock
+  - indie
+  - electropop
+  - synthpop
+
+- rhythm and blues:
+  - rhythm and blues
+  - rnb
+  - funk
+  - soul
+
+- rock:
+  - rock
+  - alternative
+  - rock
+  - metal
+  - poprock
+  - punkrock
+  - instrumentalrock
+  - psychedelic
+  - postrock
+  - rocknroll
+  - hardrock
+  - grunge
+  - alternativerock
+  - bluesrock
+  - classicrock
+
+- ska:
+  - reggae
+  - ska
+
+- folk:
+  - folk
+  - celtic
+
+
+- NON_EXISTING:
+  - soundtrack
+  - experimental
+  - easylistening
+  - world
+  - newage
+  - progressive
+  - downtempo
+  - latin
+  - fusion
+  - improvisation
+  - 60s
+  - 70s
+  - 80s
+  - 90s
+  - ethno
+  - hard
+  - groove
+  - worldfusion
+  - contemporary
+
+  - industrial
+  - singersongwriter
+  - darkwave
+  - newwave
+  - chanson
+  - bossanova
